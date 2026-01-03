@@ -11,7 +11,7 @@ redirect_from:
 
 <div class="cv_page">
   <iframe
-    src="/files/mengyang_cv.pdf"
+    src="/academicpages/files/mengyang_cv.pdf"
     style="width: 100%; height: 80vh; border: none;"
   ></iframe>
 </div>
