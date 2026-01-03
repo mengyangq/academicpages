@@ -7,7 +7,7 @@ excerpt: 'The purpose of the current study was to estimate the minimal clinicall
 date: 2025-07-29
 venue: 'Journal of Speech, Language, and Hearing Research'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-citation: 'Stipancic, K. L., van Brenk, F., <strong>Qiu, M.</strong>, &amp; Tjaden, K. (2025). Progress toward estimating the minimal clinically important difference of intelligibility: A crowdsourced perceptual experiment. <em>Journal of Speech, Language, and Hearing Research</em>, <em>68</em>(7S), 3480–3494. https://doi.org/10.1044/2024_JSLHR-24-00354'
+citation: 'Stipancic, K. L., van Brenk, F., <strong>Qiu, M.</strong>, &amp; Tjaden, K. (2025). Progress toward estimating the minimal clinically important difference of intelligibility: A crowdsourced perceptual experiment. <em>Journal of Speech, Language, and Hearing Research</em>, <em>68</em>(7S), 3480–3494. <a href="https://doi.org/10.1044/2024_JSLHR-24-00354">https://doi.org/10.1044/2024_JSLHR-24-00354</a>'
 ---
 Purpose:
 ------
